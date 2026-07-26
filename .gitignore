@@ -1,0 +1,29 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+
+# Java build directories
+bin/
+build/
+out/
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.iml
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
