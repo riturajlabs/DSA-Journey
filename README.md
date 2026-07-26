@@ -93,13 +93,9 @@ DSA-Journey/
     └── Patterns.md
 ```
 ---
-## 📝 Notes
-Along with problem solutions, I maintain notes on:
+## 🌱 Current Focus
 
-* Time and Space Complexity
-* Common DSA Patterns
-* Important concepts and observations
-* Optimization techniques
+Currently strengthening my Array fundamentals in Java while building a strong foundation in Data Structures and Algorithms.
 
 ## 🌱 Current Focus
 Currently strengthening my Array fundamentals in Java and building a strong foundation before moving to more advanced data structures and algorithms.
