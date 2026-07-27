@@ -41,16 +41,6 @@ This repository documents my progress as I learn DSA, explore different approach
 | 11 | Graphs | ⏳ Upcoming |
 | 12 | Dynamic Programming | ⏳ Upcoming |
 
----
-
-## 📈 Progress
-
-| Day | Topic | Problem | Language | Status |
-|---|---|---|---|---|
-| Day 01 | Arrays | Largest Element in an Array | Java | ✅ |
-| Day 02 | — | — | Java | ⏳ |
-| Day 03 | — | — | Java | ⏳ |
-
 > This table will be updated as I progress through the journey.
 
 ---
